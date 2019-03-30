@@ -1,7 +1,7 @@
 # Site settings
 title: Dream your dream
 SEOTitle: Dream your dream
-header-img: img/post-bg-desk.jpg
+header-img: img/jiguang.jpeg
 email: west@cake.com
 description: "love math and music."
 keyword: "dream, dream"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/daynighttime/daynighttime.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "sunny days!"
-sidebar-avatar: /img/post-bg-ios10.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/taohua.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
